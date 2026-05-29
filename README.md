@@ -1,13 +1,23 @@
 # 🏋️‍♂️ Kropp Fitness (учебный проект)
 
-## 🔗 Live Demo
-👉 [https://whalter26.github.io/Kropp-Fitness/]
-
 ---
 
 Этот проект создан в ходе повторения мастер-класса фронтенд-разработчика [Aleksander Lamkov](https://github.com/aleksanderlamkov).  
 Оригинальная структура верстки принадлежат автору урока.  
 Я воспроизвел сайт для практики и внес собственные улучшения.
+
+---
+
+## 🔗 Live Demo
+👉 [https://whalter26.github.io/Kropp-Fitness/]
+
+--- ## 🧱 Технологии
+
+- **HTML5** — семантическая структура  
+- **CSS3** — Flexbox, Grid, Custom Properties, `clamp()`, `aspect-ratio`  
+- **Адаптивная верстка** — от 1920px до 402px  
+- **Шрифты** — подключены локально через `@font-face`  
+- **SVG-иконки** и фоновые изображения  
 
 ---
 
@@ -19,10 +29,15 @@
 
 ---
 
-## 🧱 Технологии
+## 🖼 Preview
 
-- **HTML5** — семантическая структура  
-- **CSS3** — Flexbox, Grid, Custom Properties, `clamp()`, `aspect-ratio`  
-- **Адаптивная верстка** — от 1920px до 402px  
-- **Шрифты** — подключены локально через `@font-face`  
-- **SVG-иконки** и фоновые изображения  
+### 🖥 Desktop
+![Desktop](./preview-desktop.png)
+
+### 📱 Mobile
+![Mobile](./preview-mobile.png)
+
+### Full page
+![Full preview](./preview-desktop-full.png)
+
+---
