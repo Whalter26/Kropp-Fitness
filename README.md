@@ -11,7 +11,9 @@
 ## 🔗 Live Demo
 👉 [https://whalter26.github.io/Kropp-Fitness/]
 
---- ## 🧱 Технологии
+---
+
+## 🧱 Технологии
 
 - **HTML5** — семантическая структура  
 - **CSS3** — Flexbox, Grid, Custom Properties, `clamp()`, `aspect-ratio`  
@@ -31,13 +33,23 @@
 
 ## 🖼 Preview
 
-### 🖥 Desktop
-![Desktop](./preview-desktop.png)
+<table width="100%">
+  <tr>
+    <td width="65%" align="center" valign="top">
+      <h3>🖥 Desktop</h3>
+      <img src="./preview-desktop.png" alt="Desktop" width="100%">
+    </td>
+    <td width="35%" align="center" valign="top">
+      <h3>📱 Mobile</h3>
+      <img src="./preview-mobile.png" alt="Mobile" width="100%">
+    </td>
+  </tr>
+</table>
 
-### 📱 Mobile
-![Mobile](./preview-mobile.png)
-
-### Full page
-![Full preview](./preview-desktop-full.png)
+<details>
+<summary>🔍 Посмотреть страницу целиком (Full page preview)</summary>
+<br>
+<img src="./preview-desktop-full.png" alt="Full preview" width="100%">
+</details>
 
 ---
