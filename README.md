@@ -9,7 +9,7 @@
 ---
 
 ## 🔗 Live Demo
-👉 [https://whalter26.github.io/Kropp-Fitness/]
+👉 [Live Demo](https://whalter26.github.io/Kropp-Fitness/)
 
 ---
 
